@@ -24,10 +24,15 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 
 
             <state vertical-scroll-proportion="0.5704698">
               <caret line="62" column="16" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="16" />
+=======
+            <state vertical-scroll-proportion="0.41051453">
+              <caret line="38" column="60" selection-start-line="38" selection-start-column="60" selection-end-line="38" selection-end-column="69" />
+>>>>>>> parent of 99a6e6d... lorish
               <folding />
             </state>
           </provider>
@@ -36,6 +41,7 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -49,6 +55,9 @@
 =======
             <state vertical-scroll-proportion="0.0">
 >>>>>>> about
+=======
+            <state vertical-scroll-proportion="-0.0">
+>>>>>>> parent of 99a6e6d... lorish
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
 >>>>>>> about
               <folding />
@@ -114,6 +123,7 @@
     <panes>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <pane id="Scope" />
       <pane id="Scratches" />
 =======
@@ -125,6 +135,8 @@
 >>>>>>> about
 =======
 >>>>>>> about
+=======
+>>>>>>> parent of 99a6e6d... lorish
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -148,6 +160,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
       <pane id="Scratches" />
       <pane id="Scope" />
@@ -157,6 +170,10 @@
 =======
       <pane id="Scratches" />
 >>>>>>> about
+=======
+      <pane id="Scratches" />
+      <pane id="Scope" />
+>>>>>>> parent of 99a6e6d... lorish
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -292,6 +309,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -328,6 +346,8 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+=======
+>>>>>>> parent of 99a6e6d... lorish
           <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
           <folding />
         </state>
@@ -364,6 +384,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state vertical-scroll-proportion="0.22818792">
           <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
 =======
@@ -382,6 +403,10 @@
         <state vertical-scroll-proportion="0.5704698">
           <caret line="62" column="16" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="16" />
 >>>>>>> about
+=======
+        <state vertical-scroll-proportion="0.41051453">
+          <caret line="38" column="60" selection-start-line="38" selection-start-column="60" selection-end-line="38" selection-end-column="69" />
+>>>>>>> parent of 99a6e6d... lorish
           <folding />
         </state>
       </provider>
